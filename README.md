@@ -106,6 +106,12 @@ and more.
 - **[Beefy](https://beefy.com/)**: Beefy automates yield farming to make DeFi
   easy, safe and efficient for all. By autocompounding your tokens, Beefy
   unlocks higher returns so you earn more of what you love.
+  
+- **[Aerodrome](https://aerodrome.finance/)**: Aerodrome is the central trading and liquidity hub on Base. Built on the Velodrome model, it's designed to serve as Base's central liquidity layer with vote-escrowed tokenomics and bribes marketplace.
+
+- **[BaseSwap](https://baseswap.fi/)**: BaseSwap is a decentralized exchange (DEX) built on Base, offering automated market making (AMM) functionality with farming and staking opportunities for users.
+
+- **[Seamless Protocol](https://seamlessprotocol.com/)**: Seamless is a decentralized, non-custodial liquidity protocol on Base where users can participate as depositors or borrowers. It's designed for capital efficiency and user experience.
 
 - **[Bridge](https://bridge.xyz)**: APIs to move into, out of, and between any
   form of a dollar.
