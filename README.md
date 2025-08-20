@@ -177,6 +177,8 @@ and more.
   financial insights with real-time, unbiased economic data through a
   decentralized onchain oracle.
 
+  - **[Base Ecosystem Tracker](https://github.com/wearedood/base-ecosystem-tracker)**: A comprehensive analytics dashboard for tracking Base ecosystem DeFi protocols, TVL metrics, yield farming opportunities, and protocol performance across the Base blockchain. Features real-time data tracking, protocol comparison, and historical analytics.
+
 - **[Uniswap](http://uniswap.com/)**: The Uniswap Protocol is the largest
   decentralized exchange with over $1.6T in trading volume. Uniswap Labs builds
   products that let you buy, sell, and use your self custodied digital assets in
